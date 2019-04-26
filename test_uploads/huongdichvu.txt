@@ -1,0 +1,9 @@
+﻿1. Đúng mẫu thiết kế.
+2. Lấy dữ liệu trong database
+3.Dữ liệu chính xác
+4. Liên kết chuẩn
+5. phải có copy
+6. Các kỹ thuật nhận sự
+7. Auto save
+8.Meachin Learning
+->Báo cáo 5,6 trang
